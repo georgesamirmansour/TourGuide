@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical"
+    tools:context="com.example.gogos.tourguide.MainActivity">
+
+    <TextView
+        android:id="@+id/temple_of_philae_textView"
+        style="@style/category_style"
+        android:background="@color/temple_of_philae_color"
+        android:text="@string/temple_of_philae_string" />
+
+    <TextView
+        android:id="@+id/pyramid_text_view"
+        style="@style/category_style"
+        android:background="@color/pyramid_colors"
+        android:text="@string/pyramids_string" />
+
+    <TextView
+        android:id="@+id/egyptian_museum_text_view"
+        style="@style/category_style"
+        android:background="@color/egyptian_museum_color"
+        android:text="@string/egyptian_museum_string" />
+
+    <TextView
+        android:id="@+id/temple_of_karnak_text_view"
+        style="@style/category_style"
+        android:background="@color/temple_of_karnak_color"
+        android:text="@string/temple_of_karnak_string" />
+
+
+</LinearLayout>

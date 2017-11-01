@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="temple_of_philae_string">Temple Of Philae</string>
+    <string name="pyramids_string">Pyramids</string>
+    <string name="temple_of_karnak_string">Temple Of Karnak</string>
+    <string name="egyptian_museum_string">Egyptian Museum</string>
+    <string name="pyramids_1">The Egyptian pyramids are ancient
+        -shaped masonry structures located in Egypt.</string>
+
+    <string name="pyramids_2">The earliest known Egyptian pyramids
+        found at Saqqara, northwest of Memphis. The earliest among
+        these is the Pyramid of Djoser (constructed 2630 BC–2611 BC)
+        which was built during the third dynasty. This pyramid and its
+        surrounding complex were designed by the architect Imhotep,
+        and are generally considered to be the world is oldest monumental
+        structures constructed of dressed masonry. The most famous
+        Egyptian pyramids are those found at Giza, on the outskirts of
+        Cairo. Several of the Giza pyramids are counted among the largest structures
+        ever built. The Pyramid of Khufu at Giza is the largest Egyptian
+        pyramid. It is the only one of the Seven Wonders of the Ancient
+        World still in existence.</string>
+
+    <string name="pyramids_3">By the time of the Early Dynastic Period,
+        those with sufficient means were buried in bench-like
+        structures known as mastabas</string>
+
+    <string name="pyramids_4">The second historically-documented
+        Egyptian pyramid is attributed to the architect Imhotep,
+        who planned what Egyptologists believe to be a tomb for the
+        pharaoh Djoser. Imhotep is credited with being the first to
+        conceive the notion of stacking mastabas on top of each other,
+        creating an edifice composed of a number of "steps" that decreased
+        in size towards its apex. The result was the Pyramid of Djoser,
+        which was designed to serve as a gigantic stairway by which the
+        soul of the deceased pharaoh could ascend to the heavens.
+        Such was the importance of Imhotep achievement that he
+        was deified by later Egyptians.</string>
+
+    <string name="pyramids_5">The most prolific pyramid-building phase
+        coincided with the greatest degree of absolutist rule. It was during
+        this time that the most famous pyramids, the Giza pyramid complex,
+        were built. Over time, as authority became less centralized, the ability
+        and willingness to harness the resources required for construction
+        on a massive scale decreased, and later pyramids were smaller, less
+        well-built and often hastily constructed.</string>
+
+    <string name="karnak_1">The Karnak Temple Complex, commonly known as Karnak omprises
+        a vast mix of decayed temples, chapels, pylons, and other buildings. Construction
+        at the complex began during the reign of Senusret I in the Middle Kingdom and continued
+        into the Ptolemaic period, although most of the extant buildings date from the New Kingdom.
+        The area around Karnak was the ancient Egyptian Ipet-isut ("The Most Selected of Places")
+        and the main place of worship of the eighteenth dynasty Theban Triad with the god Amun as its head.
+        It is part of the monumental city of Thebes. The Karnak complex gives its name to the
+        nearby, and partly surrounded, modern village of El-Karnak, 2.5 kilometres
+        (1.6 miles) north of Luxor.</string>
+
+    <string name="karnak_2">he complex is a vast open-air museum, and the second
+    argest ancient religious site in the world, after the Angkor Wat Temple of Cambodia.
+        It is believed to be the second most visited historical site in Egypt; only the Giza
+        Pyramids near Cairo receive more visits. It consists of four main parts, of which only
+        the largest is currently open to the general public. The term Karnak often is understood
+        as being the Precinct of Amun-Ra only, because this is the only part most visitors see.
+        The three other parts, the Precinct of Mut, the Precinct of Montu, and the dismantled Temple
+        of Amenhotep IV, are closed to the public. There also
+        are a few smaller temples and sanctuaries connecting the Precinct of Mut, the Precinct of
+        Amun-Re, and the Luxor Temple.</string>
+
+    <string name="karnak_3">The Precinct of Mut is very ancient, being dedicated to an Earth and
+        creation deity, but not yet restored. The original temple was destroyed and partially restored
+        by Hatshepsut, although another pharaoh built around it in order to change the focus or
+        orientation of the sacred area. Many portions of it may have been carried away for use in other buildings.</string>
+
+    <string name="egyptian_museum_1">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo
+        , in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities.
+        It has 120,000 items, with a representative amount on display, the remainder in storerooms.
+        The edifice is one of the largest museums in the region. As of July 2017, the museum is open to the public.</string>
+
+    <string name="egyptian_museum_2">he Egyptian Museum of Antiquities contains many important
+        pieces of ancient Egyptian history. It houses the world’s largest collection of Pharaonic
+        antiquities. The Egyptian government established the museum built in 1835 near the Ezbekeyah
+        Garden and later moved to the Cairo Citadel. In 1855, Archduke Maximilian of Austria was given
+        all of the artifacts
+        by the Egyptian government; these are now in the Kunsthistorisches Museum, Vienna.</string>
+
+    <string name="egyptian_museum_3">
+        There are two main floors in the museum, the ground floor and the first floor.
+        On the ground floor there is an extensive collection of papyrus and coins used
+        in the Ancient world. The numerous pieces of papyrus are generally small fragments,
+        due to their decay over the past two millennia. Several languages are found on these pieces,
+        including Greek, Latin, Arabic, and ancient Egyptian. The coins found on this floor are made
+        of many different metals, including gold, silver, and bronze. The coins are not only Egyptian,
+        but also Greek, Roman, and Islamic. This has helped historians research the history of Ancient Egyptian trade.
+        Also on the ground floor are artifacts from the New Kingdom, the time period between 1550 and 1069 BC.
+        These artifacts are generally larger than items created in earlier centuries. Those items include statues,
+        tables, and coffins (sarcophagi), it also contains 42 rooms, upon entering through the security check in the
+        building, one looks toward the atrium and the rear of the building with many items on view from sarcophagi and boats to enormous statues.
+        On the first floor there are artifacts from the final two dynasties of Egypt, including items from the tombs of
+        he Pharaohs Thutmosis III, Thutmosis IV, Amenophis II, Hatshepsut, and the courtier Maiherpri, as well as
+        many artifacts from the Valley of the Kings, in particular the material from the intact tombs of Tutankhamun
+        and Psusennes I. Two special rooms contain a number of mummies of kings and other royal family members of the
+        New Kingdom.
+    </string>
+
+    <string name="philae_1">Philae  is currently an island in the reservoir of the Aswan Low Dam downstream
+        of the Aswan Dam and Lake Nasser, Egypt. Philae was originally located near the expansive First Cataract
+        of the Nile in Upper Egypt and was the site of an Egyptian temple complex. These rapids and the
+        surrounding area have been variously flooded since the initial construction of the Aswan Low Dam in 1902.
+        The temple complex was later dismantled and relocated to nearby Agilkia Island as part of the UNESCO Nubia
+        Campaign project,
+        protecting this and other complexes before the 1970 completion of the Aswan High Dam</string>
+
+    <string name="philae_2">Philae is mentioned by numerous ancient writers,
+        including Strabo, Diodorus Siculus, Ptolemy, Seneca,
+        Pliny the Elder. It was, as the plural name indicates,
+        the appellation of two small islands situated in latitude 24° north
+        , just above the First Cataract near Aswan (Egyptian Swenet "Trade;" Ancient Greek: Συήνη).
+        Groskurd computes the distance between these islands and Aswan at about 100 km (62 mi).</string>
+
+    <string name="philae_3">Despite being the smaller island, Philae proper was,
+        from the numerous and picturesque ruins formerly there, the more interesting of the two.
+        Prior to the inundation, it was not more than 380 metres (1,250 ft) long and about 120 metres
+        (390 ft) broad. It is composed of syenite:
+        its sides are steep and on their summits a lofty wall was built encompassing the island.</string>
+
+</resources>
