@@ -30,19 +30,14 @@ public class DataResourcesAdaptor extends ArrayAdapter<DataResources> {
         if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_all, parent, false);
         }
-
         DataResources currentDataResources = getItem(position);
-
         TextView informationTextView = listItemView.findViewById(R.id.tour_guide_text_view);
         informationTextView.setText(currentDataResources.getInformation());
-
         ImageView imageView = listItemView.findViewById(R.id.tour_guide_image_view);
         imageView.setImageResource(currentDataResources.getImageResource());
-
         View textContainer = listItemView.findViewById(R.id.text_container);
         int backgroundColor = ContextCompat.getColor(getContext(), colorResourcesId);
         textContainer.setBackgroundColor(backgroundColor);
-
         return listItemView;
     }
 

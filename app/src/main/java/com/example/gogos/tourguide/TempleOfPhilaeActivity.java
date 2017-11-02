@@ -23,7 +23,6 @@ public class TempleOfPhilaeActivity extends AppCompatActivity {
         dataResourcesArrayList.add(new DataResources(getString(R.string.philae_1), R.drawable.philae_1));
         dataResourcesArrayList.add(new DataResources(getString(R.string.philae_2), R.drawable.philae_2));
         dataResourcesArrayList.add(new DataResources(getString(R.string.philae_3), R.drawable.philae_3));
-
     }
 
     private void arrayAdaptor() {

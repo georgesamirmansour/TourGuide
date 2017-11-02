@@ -22,7 +22,6 @@ public class EgyptianMuseumActivity extends AppCompatActivity {
         dataResourcesArrayList.add(new DataResources(getString(R.string.egyptian_museum_1), R.drawable.em1));
         dataResourcesArrayList.add(new DataResources(getString(R.string.egyptian_museum_3), R.drawable.em2));
         dataResourcesArrayList.add(new DataResources(getString(R.string.egyptian_museum_3), R.drawable.em3));
-
     }
 
     private void arrayAdaptor() {
@@ -30,6 +29,5 @@ public class EgyptianMuseumActivity extends AppCompatActivity {
                 new DataResourcesAdaptor(this, dataResourcesArrayList, R.color.egyptian_museum_color);
         ListView listView = findViewById(R.id.list);
         listView.setAdapter(itemsDataResourcesAdaptor);
-
     }
 }
